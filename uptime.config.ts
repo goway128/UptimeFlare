@@ -9,7 +9,7 @@ const workerConfig: WorkerConfig = {
   monitors: [
     {
       id: 'goway0128_top',
-      name: 'goway0128.top',
+      name: '博客',
       method: 'GET',
       target: 'https://goway0128.top',
       tooltip: 'goway0128.top',
@@ -19,7 +19,7 @@ const workerConfig: WorkerConfig = {
     },
     {
       id: 'api_10dianai_com',
-      name: 'api.10dianai.com',
+      name: '10点用户台',
       method: 'GET',
       target: 'https://api.10dianai.com',
       tooltip: 'api.10dianai.com',
@@ -28,7 +28,7 @@ const workerConfig: WorkerConfig = {
     },
     {
       id: 'cy_10dianai_com',
-      name: 'cy.10dianai.com',
+      name: '10点企业台',
       method: 'GET',
       target: 'https://cy.10dianai.com',
       tooltip: 'cy.10dianai.com',
@@ -37,7 +37,7 @@ const workerConfig: WorkerConfig = {
     },
     {
       id: 'api_10dian_ai_top',
-      name: 'api.10dian-ai.top',
+      name: '10点官网',
       method: 'GET',
       target: 'https://api.10dian-ai.top',
       tooltip: 'api.10dian-ai.top',
